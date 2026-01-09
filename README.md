@@ -1,4 +1,4 @@
-# MyHiveAnalysis - mobile app Log Analysis System by apache hive
+# LogHivePlatform — Mobile App Log ETL & Analytics Pipeline
 
 A mobile app log generation, storage, and analysis system based on Apache Hive.
 
