@@ -1,4 +1,4 @@
-# LogHivePlatform — Mobile App Log ETL & Analytics Pipeline
+# Log-Hive-Insight-Analysis — Mobile App Log ETL & Analytics Pipeline
 
 A mobile app log generation, storage, and analysis system based on Apache Hive.
 
