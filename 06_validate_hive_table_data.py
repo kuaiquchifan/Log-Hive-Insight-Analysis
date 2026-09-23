@@ -24,9 +24,9 @@ def execute_sql(cursor, sql):
 def main():
     # 连接 HiveServer2
     conn = hive.Connection(
-        host="192.168.71.128",
+        host="<your-vm-ip>",
         port=10000,
-        username="lee",
+        username="your-vm-username",
         database="default"
     )
 
