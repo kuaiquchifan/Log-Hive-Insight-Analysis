@@ -19,7 +19,7 @@
 ## 项目结构和功能特性
 
 ```bash
-Log-Hive-Insight-Analysis-v2/
+TodoList-Log-Hive-Analysis/
 ├── 01_create_user_raw_data.ipynb                     # 生成合成的用户维表数据
 ├── 02_create_date_raw_data.ipynb                     # 生成“日期维度表”的数据
 ├── 03_create_task_raw_data_v4.ipynb                  # 生成“任务维度表”和“待办事件日志表”的数据
@@ -175,7 +175,7 @@ Log-Hive-Insight-Analysis-v2/
 
 ```bash
 git clone <repository-url>
-cd Log-Hive-Insight-Analysis-v2\
+cd TodoList-Log-Hive-Analysis\
 ```
 
 #### 在miniconda创建并激活虚拟环境

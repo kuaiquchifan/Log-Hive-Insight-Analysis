@@ -20,7 +20,7 @@ Project Focus and Features
 Project contents:
 
 ```bash
-Log-Hive-Insight-Analysis-v2/
+TodoList-Log-Hive-Analysis/
 ├── 01_create_user_raw_data.ipynb                     # generate synthetic dim_user data
 ├── 02_create_date_raw_data.ipynb                     # generate dim_date data
 ├── 03_create_task_raw_data_v4.ipynb                  # generate dim_task and ods_todo_event_log data
@@ -171,7 +171,7 @@ Brief descriptions of main files:
 #### Clone the repo and open the folder:
 ```bash
 git clone <repository-url>
-cd Log-Hive-Insight-Analysis-v2\
+cd TodoList-Log-Hive-Analysis\
 ```
 #### Create and activate a conda env:
 ```bash
